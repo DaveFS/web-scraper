@@ -1,4 +1,7 @@
 from urllib.request import urlopen
+import re
+
+#link to page section: https://realpython.com/python-web-scraping-practical-introduction/#get-to-know-regular-expressions
 
 #url = "https://www.bbc.co.uk/news/articles/cwyv8y68e25o" #bbc news article page
 #url = "http://olympus.realpython.org/profiles/aphrodite" # tutorial site
