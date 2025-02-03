@@ -1,0 +1,3 @@
+#re.findall("pattern","string",optional 3rd) - locates pattern in indicated string, 3rd argument can be applied e.g. IGNORECASE
+#re.search("pattern","string",optional 3rd) - every possible result, even within other matches
+#re.sub("pattern","replacement","string") - replaces everything in the indicated match with the 2nd argument
